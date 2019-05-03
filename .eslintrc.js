@@ -4,6 +4,7 @@ module.exports = {
         "es6": true,
         "node": true,
         "jquery": true,
+        "mocha": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
